@@ -7,5 +7,5 @@ Run the `tester.m` file. By default, it generates a random 5x5 matrix as the inp
 ## Example
 * Input:
 ![Raw input](img/raw.jpg "Raw input")
-* Output
+* Output for `len = 10`:
 ![Interpolated output](img/interpolated.jpg "Interpolated input")
